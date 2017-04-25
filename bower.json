@@ -1,0 +1,14 @@
+{
+  "name": "miapp",
+  "authors": [
+    "hernando"
+  ],
+  "description": "this",
+  "main": "index",
+  "license": "MIT",
+  "homepage": "home",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "0.2.18"
+  }
+}
