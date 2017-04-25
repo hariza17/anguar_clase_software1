@@ -1,0 +1,34 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "this is a angular app",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariza17/anguar_clase_software1.git"
+  },
+  "author": "Hernando Clareth Ariza Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariza17/anguar_clase_software1/issues"
+  },
+  "homepage": "https://github.com/hariza17/anguar_clase_software1#readme",
+  "devDependencies": {
+    "browserify": "^9.0.7",
+    "browserify-ngannotate": "^0.7.1",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-cachebust": "0.0.5",
+    "gulp-concat": "^2.5.2",
+    "gulp-install": "^0.4.0",
+    "gulp-util": "^3.0.4",
+    "gulp-webserver": "^0.9.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-firefox-launcher": "^0.1.4",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
