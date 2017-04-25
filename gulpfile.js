@@ -37,7 +37,7 @@ gulp.task('webserver', ['watch'], function () {
         .pipe(webserver({
             livereload: true,
             directoryListing: true,
-            open: "http://localhost:7000/index.html"
+            open: "http://localhost:8000/index.html"
         }));
 });
 
