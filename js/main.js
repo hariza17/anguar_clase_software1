@@ -5,7 +5,7 @@ app.config(['$stateProvider',function ($stateProvider) {
         $stateProvider
             .state('main', {
                 url: '/app',
-                templateUrl: '<div>Menu</div>',
+                templateUrl: 'js/views/main.html',
             })
 
 }]);
