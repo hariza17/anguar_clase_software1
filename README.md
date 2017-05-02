@@ -3,8 +3,8 @@ Learning Angular JS
 
 To run this angular project you need:
 
-### 1- clone repository 
-### 2- cd /anguar_clase_software1
+### 1- Download repository
+### 2- cd /angular_clase_software1
 ### 3- run command ```npm install```
 ### 4- run command ```gulp bower```
 ### 5- run command ```gulp dev```
